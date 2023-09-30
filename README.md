@@ -17,8 +17,8 @@ Time spent: **7** hours
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented required features:
-
+[Here](https://www.loom.com/share/cf46fe224db345ac8b5202fa2c4665b6?sid=9f03e594-02d1-425b-ad27-eb1949362ba2
+)'s a walkthrough of implemented required features:
 GIF created with Loom  GIF
 
 ## License
